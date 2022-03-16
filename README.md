@@ -5,7 +5,7 @@ Phonetic Thaana Keyboard layout for macOS. It's intended to be a bit more minima
 
 ## Usage
 
-You can download the [dmg file](Thaana%20XXII.dmg) from the repo or the [Releases page](/releases/latest) to install keyboard easily. 
+You can download the [dmg file](Thaana%20XXII.dmg) from the repo or the [Releases page](/releases) to install keyboard easily. 
 
 1. Open the dmg, 
 2. Run the Keyboard Installer
