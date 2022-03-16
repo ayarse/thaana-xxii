@@ -15,8 +15,11 @@ You can download the [dmg file](Thaana%20XXII.dmg) from the repo or the [Release
 Alternatively, you can run the shell script in your terminal to automatically install the keyboard layout along with fonts.  
 
 ```shell
+# Download ZIP and cd into thaana-xxii
 curl -LJO https://github.com/ayarse/thaana-xxii/releases/download/v1.0.0/thaana-xxii.zip && unzip "thaana-xxii.zip" -x '__MACOSX/*' -d thaana-xxii
 cd thaana-xxii
+
+# Run the installer script
 sudo bash ./Install_With_Fonts.sh
 ```
 
